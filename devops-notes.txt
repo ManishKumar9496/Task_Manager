@@ -1,0 +1,3 @@
+Git manages source code versions.
+Docker packages applications.
+Jenkins automates CI/CD pipelines.
