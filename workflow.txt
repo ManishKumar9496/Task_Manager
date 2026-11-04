@@ -1,0 +1,6 @@
+Git tracks source code changes.
+GitHub hosts remote repositories.
+Branches isolate development work.
+Pull Requests support code reviews.
+Docker packages applications.
+Jenkins automates CI/CD pipelines.
