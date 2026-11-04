@@ -28,3 +28,12 @@ python app.py
 
 ## Author
 Manish Kumar
+
+
+## Learning Progress
+
+Currently learning:
+- Git and GitHub
+- Docker
+- Jenkins
+- CI/CD
